@@ -1,7 +1,5 @@
 # Direct-Revision-or-Targeted-Replay-Comparing-Factual-Error-Repair-Policies-for-Long-Form-Generation
 
-# Direct Revision or Targeted Replay: Comparing Factual-Error Repair Policies for Long-Form Generation
-
 This repository contains the experiment code, datasets, and analysis notebook for comparing factual-error repair in Direct and Decomposed LLM workflows.
 
 ## Workflows
