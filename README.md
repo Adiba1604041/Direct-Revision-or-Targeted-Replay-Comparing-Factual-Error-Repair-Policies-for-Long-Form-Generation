@@ -19,6 +19,10 @@ We evaluate four configurations:
 
 The datasets are provided as CSV or JSONL files. Python scripts are named by workflow, HDM setting, task, and model.
 
+## Models
+
+The provided scripts are configured for Gemma 3. The same workflows can be used with other models by updating all model-name settings and ensuring that the selected model is available through Ollama. Compatibility with the scripts’ structured JSON output requirements should be checked before running experiments.
+
 ## Analysis
 
 The analysis notebook examines:
